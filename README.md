@@ -25,6 +25,17 @@ Vue.use(OrgTree)
 // ...
 ```
 
+### CDN
+
+```http
+# css
+<link href="https://unpkg.com/@orez/vue-org-tree/dist/style.css">
+
+# js
+<script src="https://unpkg.com/vue/dist/vue.js"></script>
+<script src="https://unpkg.com/@orez/vue-org-tree/dist/index.js"></script>
+```
+
 ## API
 
 #### props
