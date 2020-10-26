@@ -25,7 +25,7 @@
 import render from './node'
 
 export default {
-  name: 'Vue2OrgTree',
+  name: 'org-tree',
   components: {
     OrgTreeNode: {
       render,
